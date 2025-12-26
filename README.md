@@ -1,16 +1,13 @@
 ## Hi I'm Gus 👋
 
-<div id="header" style="display: flex; align-items: center; gap: 5px;">
-  <div>
-    <p>
-        ✨ Welcome to my profile!
-        I’m a software engineering student 💻📚, currently working on personal projects 🚀🛠️.
-        ¡Thanks for visiting! 👋😊
-    </p>
-  </div>
+<img
+  align="right"
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxtODJlZG94aWFxeHVwMHM2OHl2MjJiejZ0dHQ4ZmFsYW45d3FjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e8vLgKW80EBxLjRWZw/giphy.gif"
+  width="80"
+/>
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxtODJlZG94aWFxeHVwMHM2OHl2MjJiejZ0dHQ4ZmFsYW45d3FjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e8vLgKW80EBxLjRWZw/giphy.gif" width="80"/> 
-</div>
+I’m a software engineering student 💻📚, currently working on personal projects 🚀🛠️.  
+¡Thanks for visiting! 👋😊
 
 ## Technologies
 
