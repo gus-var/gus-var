@@ -6,8 +6,7 @@
   width="80"
 />
 
-I’m a software engineering student 💻📚 building full-stack and systems-oriented projects ⚙️, from APIs and databases 🗄️ to deployment and automation 🚀.  
-Currently learning 📖, experimenting 🧪, and improving my technical decision-making 🧠 through real projects 🔧.
+I’m a software engineering student 💻📚 building full-stack and systems-oriented projects, from APIs and databases🗄️ to deployment and automation 🚀. Currently learning 📖, experimenting 🧪, and improving my technical decision-making through real projects.
 
 ## Technologies
 
